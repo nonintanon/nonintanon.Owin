@@ -4,7 +4,9 @@ nonintanon.Owin
 OWIN Middleware - Demo for ZupZip #9, Bangkok, Thailand
 
 
-**nonintanon.OWIN.Security.Instagram USAGE**
+**USAGE: nonintanon.OWIN.Security.Instagram**
+
+Download NuGet package from nonintanon.Owin.Security.Instagram
 
 Add this line of code in ConfigureAuth() method in Startup class
 
